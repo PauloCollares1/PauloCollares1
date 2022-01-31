@@ -1,6 +1,6 @@
 - ---------------------------------------------------------------------------------------------
-- Oi Gente! Tudo beleza com vocês ?  👋
-- Meu nome é Paulo e esse é meu repositório ! 
+- 👋 Oi Gente! Tudo beleza com vocês ?  �
+- 👋 Meu nome é Paulo e esse é meu repositório ! 
 - 🌱 Estou atualmente aprendendo HTML - CSS - Javascript - NodeJS - REACT
 - 🤔 adoraria trabalhar numa empresa como desenvolvedor para demonstrar minhas habilidades 
 - ---------------------------------------------------------------------------------------------
@@ -21,14 +21,17 @@ ________________________________________________________________________________
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
-________________________________________________________________________________________________________________________________
-
+  
+________________________________________________________________________________________________________________________________________________________________________
+ 
 <div>
   <h3>Redes sociais</h3>
   
   <a href="https://www.linkedin.com/in/paulo-collares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+________________________________________________________________________________________________________________________________________________________________________
+  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 

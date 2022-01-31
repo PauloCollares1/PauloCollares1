@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/PauloCollares1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCollares1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCollares1&layout=compact&langs_count=7&theme=merko"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=PauloCollares1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCollares1&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
   
@@ -19,7 +19,7 @@
   <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
 
 <div>

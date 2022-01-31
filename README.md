@@ -21,7 +21,7 @@ ________________________________________________________________________________
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
-______________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________
 
 <div>
   <h3>Redes sociais</h3>

@@ -1,8 +1,11 @@
 - ---------------------------------------------------------------------------------------------
 <h3>Apresentação</h3>
-- 👋 Oi Gente! Tudo beleza com vocês ?  �
+- 👋 Oi Gente! Tudo beleza com vocês ?
+<br>
 - 👋 Meu nome é Paulo e esse é meu repositório ! 
+<br>
 - 🌱 Estou atualmente aprendendo HTML - CSS - Javascript - NodeJS - REACT
+<br>
 - 🤔 adoraria trabalhar numa empresa como desenvolvedor para demonstrar minhas habilidades 
 
 

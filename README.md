@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/PauloCollares1">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=PauloCollares1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCollares1&layout=compact&langs_count=7&theme=merko"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=PauloCollares1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCollares1&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
 ________________________________________________________________________________________________________________________________________________________________________
@@ -21,7 +21,7 @@ ________________________________________________________________________________
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align="center" alt="Paulo-Js" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
 </div>
-_______________________________________________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________________________________________________
 
 <div>
   <h3>Redes sociais</h3>

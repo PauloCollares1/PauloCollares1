@@ -1,4 +1,5 @@
 - ---------------------------------------------------------------------------------------------
+<h3>Apresentação</h3>
 - 👋 Oi Gente! Tudo beleza com vocês ?  �
 - 👋 Meu nome é Paulo e esse é meu repositório ! 
 - 🌱 Estou atualmente aprendendo HTML - CSS - Javascript - NodeJS - REACT
@@ -7,6 +8,7 @@
 
 
 <div align="center">
+  <h3>Status</h3>
   <a href="https://github.com/PauloCollares1">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=PauloCollares1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCollares1&layout=compact&langs_count=7&theme=merko"/>
@@ -15,6 +17,7 @@
 ________________________________________________________________________________________________________________________________________________________________________
   
 <div>
+  <h3>Tecnologias</h3>
   <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Paulo-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />

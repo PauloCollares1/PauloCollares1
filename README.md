@@ -4,7 +4,7 @@
 <br>
 - 👋 Meu nome é Paulo e esse é meu repositório ! 
 <br>
-- 🌱 HTML - CSS - Javascript - NodeJS - REACT - SQL - Sequelize - typescript
+- 🌱 HTML - CSS - Javascript - typescript - NodeJS - REACT - Next - SQL - Sequelize - Prisma..and more
 <br>
 
 
